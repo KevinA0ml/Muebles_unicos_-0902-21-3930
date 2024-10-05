@@ -16,5 +16,26 @@
         "nombre": "Lámpara",
         "descripcion": "Una lámpara moderna para iluminar tu hogar.",
         "imagen": "images/lampara.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "libreria",
+        "descripcion": "Una libreria para tus libros",
+        "imagen": "images/librera.PNG"
+    },
+    {
+        "id": 5,
+        "nombre": "credenza",
+        "descripcion": "Una elegante credenza para tu sala.",
+        "imagen": "images/credenza.PNG"
+    },
+    {
+        "id": 6,
+        "nombre": "tocador",
+        "descripcion": "Un moderno tocador para iluminar tu dormitorio.",
+        "imagen": "images/tocador.PNG"
     }
+
+
+
 ]
